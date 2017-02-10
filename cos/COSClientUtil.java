@@ -74,7 +74,7 @@ public class COSClientUtil {
     }
 
     /**
-     * 上传文件。
+     * 上传文件
      *
      * @param objectKey
      * @param localFilePath
