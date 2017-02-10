@@ -138,7 +138,7 @@ public class COSClientUtil {
     }
 
     /**
-     * 取得远程S文件地址.
+     * 取得远程文件地址.
      *
      * @param objectKey
      * @return
