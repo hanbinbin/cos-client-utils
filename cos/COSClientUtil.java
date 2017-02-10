@@ -46,8 +46,6 @@ public class COSClientUtil {
 
     /**
      * 清空客户端缓存。
-     * <p/>
-     * <br>
      * 一般在用户注销时， 执行。
      */
     public void clear() {
